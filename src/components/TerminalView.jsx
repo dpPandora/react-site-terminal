@@ -52,4 +52,7 @@ export default TerminalView;
  * TODO:
  * - rearrange the input and output, hopefuly then input will automatically follow the end of output instead of the janky solution ive got now
  * - remake the "enterCommand" function so that it can be easily attapted for axios
+ * 
+ * - adjust or even remake this so that the component file and a css file can be dropped into any project
+ * - as for commands, it should work with a switch statement checking the first word and then passing props to the corisponding component(skills?)
  */
